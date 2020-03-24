@@ -5,8 +5,13 @@ body {
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	color:#583eff;
+	text-transform:none;
 }
 .subheading {
 	font-family: 'Noto Sans TC', sans-serif;
 	coior:#0000ff;
+	text-transform:none;
+}
+bg.primary{
+	color:#0241c4 important;
 }

@@ -12,6 +12,6 @@ h1,h2,h3,h4,h5,h6 {
 	coior:#0000ff;
 	text-transform:none;
 }
-bg.primary{
+.bg-primary{
 	background-color:#0241c4!important;
 }
